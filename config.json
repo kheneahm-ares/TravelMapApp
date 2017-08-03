@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "kares@aol.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey": "tfi8478l0tRKeIr72EBt~PE4eoC5vF_ftbJ6rtTz8wg~Aq6I9WlOe30RSGXGqmKQ_A8vXfW3_VvG1AaF6bOPKMEINhyC7EJ0YasNBlax9dzq"
+  }
+}
